@@ -43,9 +43,3 @@ This code has been tested on Ubuntu 16.04, Unreal Engine 4 18.23 and on Python 3
 * NumPy 1.18.1
 * OpenCV 4.1.0.25
 
-## Demo
-
-Video demo: [link](https://youtu.be/7WMC5723dsE)
-## Contact
-
-Quan Tran Hai : [Linkedin](www.linkedin.com/in/haiquantran-drone)
